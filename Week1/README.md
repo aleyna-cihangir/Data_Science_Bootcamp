@@ -1,2 +1,1 @@
-
-I have a lot of notes for week1
+**I have a lot of notes for week1**
