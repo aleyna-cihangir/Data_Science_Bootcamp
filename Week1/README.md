@@ -20,5 +20,5 @@
 *Unsupervised Learning :* it is a learning method that creates certain groups with the Clustering method according to the characteristics of the data we have.
  
 <p align="center">
-  <img width="250" height="250" src="https://assets.website-files.com/5fb24a974499e90dae242d98/6048d0fc7263e9054bd88796_Machine%20Learning%20is%20a%20subset%20of%20AI.png">
+  <img width="650" height="250" src="https://assets.website-files.com/5fb24a974499e90dae242d98/6048d0fc7263e9054bd88796_Machine%20Learning%20is%20a%20subset%20of%20AI.png">
 </p>
