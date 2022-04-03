@@ -23,3 +23,4 @@
   <img width="850" height="400" src="https://assets.website-files.com/5fb24a974499e90dae242d98/6048d0fc7263e9054bd88796_Machine%20Learning%20is%20a%20subset%20of%20AI.png">
 </p>
 
+Homework : We will introduce ourselves on our github profile and Data Operations
