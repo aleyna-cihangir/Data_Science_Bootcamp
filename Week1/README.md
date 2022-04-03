@@ -19,4 +19,4 @@
  
 *Unsupervised Learning :* it is a learning method that creates certain groups with the Clustering method according to the characteristics of the data we have.
 
-![Image of AI](https://aleyna-cihangir.github.com/images/super-unsuper-lear.png)
+![alt text](https://levity.ai/blog/how-do-machines-learn/6048d0fc7263e9054bd88796_Machine Learning is a subset of AI.png)
