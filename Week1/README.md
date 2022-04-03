@@ -1,5 +1,5 @@
 
-#**WEEK 1 NOTES :**
+# **WEEK 1 NOTES :**
 
 Humanoid Thinking / Rational Thinking
 
