@@ -1,1 +1,4 @@
 
+**WEEK 1 NOTES :**
+Humanoid Thinking / Rational Thinking
+Humanitarian Behavior / Rational Behavior
