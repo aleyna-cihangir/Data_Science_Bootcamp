@@ -18,4 +18,7 @@
 *Supervised Learning :* we have the data set and the equivalents of this data set are also available. It tries to make a new prediction by giving the input and output values.
  
 *Unsupervised Learning :* it is a learning method that creates certain groups with the Clustering method according to the characteristics of the data we have.
-![AI](https://assets.website-files.com/5fb24a974499e90dae242d98/6048d0fc7263e9054bd88796_Machine%20Learning%20is%20a%20subset%20of%20AI.png) 
+ 
+<p align="center">
+  <img width="250" height="250" src="https://assets.website-files.com/5fb24a974499e90dae242d98/6048d0fc7263e9054bd88796_Machine%20Learning%20is%20a%20subset%20of%20AI.png">
+</p>
